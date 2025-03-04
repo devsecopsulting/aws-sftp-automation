@@ -1,3 +1,3 @@
 # aws-sftp-automation
 
-Refer to https://medium.com/@geoff1337/ftp-automated-scheduled-file-downloads-using-aws-batch-eventbridge-6f6af4abe19a for instructions
+Refer to https://pradeepab.hashnode.dev/ftp-automatedscheduled-file-downloads-using-aws-batcheventbridge for instructions
