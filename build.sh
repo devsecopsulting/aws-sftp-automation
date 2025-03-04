@@ -1,6 +1,6 @@
 #!/bin/sh
-accountNo=123456789012 # enter account number to use here
-region=ap-southeast-2 # enter region of ecr repo created
+accountNo=211125586466 # enter account number to use here
+region=ap-south-1 # enter region of ecr repo created
 ecrRepoName=ingest-sftp-to-s3 # enter name of ecr repo created
 
 docker build . -t ${accountNo}.dkr.ecr.${region}.amazonaws.com/${ecrRepoName}:latest
